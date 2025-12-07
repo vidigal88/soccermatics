@@ -4,3 +4,5 @@ mplsoccer
 pandas
 numpy
 plotly
+seaborn
+statsbombpy
