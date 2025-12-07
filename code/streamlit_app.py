@@ -7,6 +7,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 
+
 # ------------------------------------------------------------
 # 1. LOAD DATA (all matches in EURO 2024)
 # ------------------------------------------------------------
